@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Anna Chernova and Rob Picheta, CNN",
+      "title": "Moscow is going back into lockdown as Covid-19 deaths multiply in Russia - CNN",
+      "description": "Moscow will impose a 10-day lockdown from next week in an effort to curb soaring Covid-19 cases, the city's mayor has said, as Russia endures its worst-ever phase of the pandemic.",
+      "url": "https://www.cnn.com/2021/10/21/europe/moscow-lockdown-october-2021-covid-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211021102247-01-moscow-coronavirus-october-2021-super-tease.jpg",
+      "publishedAt": "2021-10-21T16:18:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Alicia Adamczyk",
+      "title": "Joe Manchin's child tax credit changes could prevent more than 37 million children from getting aid - CNBC",
+      "description": "Imposing a $60,000 income cap on the child tax credit would result in tens of millions fewer kids receiving the benefit, an analysis finds.",
+      "url": "https://www.cnbc.com/2021/10/21/manchin-could-prevent-37-million-kids-from-getting-child-tax-credit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963890-1634826126848-gettyimages-1344108506-kd2_0130_20210930123456814.jpeg?v=1634826167",
+      "publishedAt": "2021-10-21T15:46:31Z",
+      "content": "More than 37 million children could lose the enhanced monthly child tax credit (CTC) if Democrats adopt Sen. Joe Manchin, D-W.V.,'s reported desire to include an income cap of $60,000 per year, a new… [+2047 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Orlando Sentinel" },
+      "author": "Steven Lemongello, Gray Rohrer",
+      "title": "DeSantis calls special session to ban COVID-19 vaccine mandates for local government employees - Orlando Sentinel",
+      "description": "Gov. Ron DeSantis on Thursday said he would call a special session of the Legislature in November to pass laws banning local governments, agencies and businesses from mandating COVID-19 vaccines for their employees and stripping liability protections from any…",
+      "url": "https://www.orlandosentinel.com/politics/os-ne-desantis-special-session-20211021-wpwj4bj2hrfp5hrdz3wfsem2xe-story.html",
+      "urlToImage": "https://www.orlandosentinel.com/resizer/i1TudyrOJCIWLP494T-9t5l3HBM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VU7QJHTYI5FCTPTM544NOKVAGE.PNG",
+      "publishedAt": "2021-10-21T15:37:13Z",
+      "content": "Gov. Ron DeSantis on Thursday said he would call a special session of the Legislature in November to pass laws banning local governments and agencies from mandating COVID-19 vaccines for their employ… [+4480 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "David K. Li",
+      "title": "Ex-Minneapolis police officer resentenced to 57 months in prison for killing 911 caller - NBC News",
+      "description": "A judge on Thursday sentenced former Minneapolis police officer Mohamed Noor to 57 months behind bars for the 2017 fatal shooting of a 911 caller.",
+      "url": "https://www.nbcnews.com/news/us-news/former-minneapolis-police-officer-resentenced-57-months-prison-killing-911-n1281829",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_42/3513541/211019-mohammed-noor-jm-0922.jpg",
+      "publishedAt": "2021-10-21T15:11:00Z",
+      "content": "A judge on Thursday sentenced former Minneapolis police officer Mohamed Noor to 57 months behind bars, the maximum penalty possible, for fatally shooting a 911 caller in 2017.\r\nNoor had been convicte… [+3171 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Silvia Amaro",
+      "title": "Poland clash set to take center stage at EU summit despite energy crisis - CNBC",
+      "description": "EU leaders arriving in the Belgian capital on Thursday could not escape questions on the tense relationship between Warsaw and Brussels.",
+      "url": "https://www.cnbc.com/2021/10/21/poland-clash-center-stage-at-eu-summit-despite-energy-crisis.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963916-1634826722017-gettyimages-1236023910-AFP_9Q63XD.jpeg?v=1634826757",
+      "publishedAt": "2021-10-21T15:01:33Z",
+      "content": "BRUSSELS, Belgium The ongoing showdown between Poland and the European Union is set to dominate a Brussels summit this week.\r\nEU leaders arriving in the Belgian capital on Thursday could not escape q… [+3340 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jeremy Layton",
+      "title": "Red Sox fans chant 'F--k Joe Biden' after loss to Astros - New York Post ",
+      "description": "Red Sox fans turned their ire toward Joe Biden after Wednesday’s loss to the Astros.",
+      "url": "https://nypost.com/2021/10/21/red-sox-fans-chant-f-k-joe-biden-after-loss-to-astros/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/red-sox-fans.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-21T14:54:00Z",
+      "content": "Stay classy, Boston.\r\nOne night after Red Sox fans relentlessly heckled Alex Rodriguez during the postgame show after Game 3 of the ALCS against the Astros, the rowdy crowd directed their ire toward … [+712 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Sami Fathi",
+      "title": "New 14-Inch and 16-Inch MacBook Pro Orders Now 'Preparing to Ship' - MacRumors",
+      "description": "Shipments of the new 14-inch and 16-inch MacBook Pros are now \"Preparing to Ship\" for some customers ahead of when the first delivery is...",
+      "url": "https://www.macrumors.com/2021/10/21/14-inch-and-16-inch-macbook-pro-preparing-to-ship/",
+      "urlToImage": "https://images.macrumors.com/t/4nOHqTh0Vun5rZzjGPTyZRnjWQk=/1960x/https://images.macrumors.com/article-new/2021/10/macbook-pro-14-16-inch.jpg",
+      "publishedAt": "2021-10-21T14:34:59Z",
+      "content": "Shipments of the new 14-inch and 16-inch MacBook Pros are now \"Preparing to Ship\" for some customers ahead of when the first delivery is expected to arrive at customers next week.\r\nThe new 14-inch an… [+778 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "James T. Areddy",
+      "title": "Xi Jinping Hasn’t Left China in 21 Months, Keeping Diplomacy Virtual - The Wall Street Journal",
+      "description": "Chinese leader, his world travels interrupted by pandemic, is expected to remain a face on a screen at global summits",
+      "url": "https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813",
+      "urlToImage": "https://images.wsj.net/im-421029/social",
+      "publishedAt": "2021-10-21T14:33:00Z",
+      "content": "Chinese President Xi Jinping sealed himself behind some of the worlds tightest border controls when Covid-19 hit, and even as his international image sags he isnt expected to resume his globe-trottin… [+218 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Root" },
+      "author": "Shanelle Genai",
+      "title": "Dave Chappelle Fans and Netflix Employees Clash During Walkout; Comedian Says He’ll Do 10-City U.S. Tour if Th - The Root",
+      "description": "Ahead of the protest, trans employees and allies also provided a list of demands to their employer.",
+      "url": "https://www.theroot.com/dave-chappelle-fans-and-netflix-employees-clash-during-1847907756",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dca68b61b7f7322e9aba5e846e8deefe.jpg",
+      "publishedAt": "2021-10-21T14:30:00Z",
+      "content": "On Wednesday, trans, non-binary, LGBTQ+ employees of Netflix and allies walked out in protest of their employers mishandling of the backlash following the release of Dave Chappelles latest comedy spe… [+3489 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Jill Goldsmith",
+      "title": "Gotham Awards Nominations: ‘The Lost Daughter’, ‘Passing’ Lead Way – Complete List - Deadline",
+      "description": "Maggie Gyllenhaal’s The Lost Daughter and Rebecca Hall’s Passing (both from Netflix) swept nominations for the Gotham Awards this year as the independent film honors and awards-season portal unveiled its list Thursday morning ahead of an in-person ceremony ne…",
+      "url": "https://deadline.com/2021/10/gotham-awards-nominations-movie-tv-nominees-list-1234859695/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Gotham-Awards-logo-2021-featured.jpg?w=1000",
+      "publishedAt": "2021-10-21T14:27:00Z",
+      "content": "Maggie Gyllenhaal’s The Lost Daughter and Rebecca Hall’s Passing, both from Netflix, swept the top nominations for the Gotham Awards this year as the independent film honors and awards-season portal … [+9929 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Dan Mangan, Yun Li, Christina Wilkie",
+      "title": "Trading in Trump-linked SPAC Digital World Acquisition halted briefly, shares soar 180% on news of social media deal - CNBC",
+      "description": "Trump has a planned social media platform,\"TRUTH Social,\" which is allied with the SPAC company Digital World Acquisition Corp.",
+      "url": "https://www.cnbc.com/2021/10/21/trump-linked-spac-shares-soar-more-than-40percent-on-news-of-social-media-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106919800-16276693532021-07-30t180641z_1647928840_rc26vo90bfvx_rtrmadp_0_usa-trump-election.jpeg?v=1627669398",
+      "publishedAt": "2021-10-21T14:24:11Z",
+      "content": "The stock of SPAC company Digital World Acquisition Corp. skyrocketed on extremely heavy trading volume after news of a merger that would launch former President Donald Trump's planned social media p… [+5875 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Kitco NEWS" },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "Gold price remains under pressure following 7% rise in U.S. existing home sales - Kitco NEWS",
+      "description": "(Kitco News) - The gold market remains caught in neutral finding little momentum in either direction even as the U.S. housing market continues to attract buyers.",
+      "url": "https://www.kitco.com/news/2021-10-21/Gold-price-remains-under-pressure-following-7-rise-in-U-S-existing-home-sales.html",
+      "urlToImage": "https://www.kitco.com/news/2021-10-21/images/house-for-sale.jpg",
+      "publishedAt": "2021-10-21T14:12:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Shane Harris, Michael Birnbaum",
+      "title": "White House, intelligence agencies, Pentagon issue reports warning climate change threatens global security - The Washington Post",
+      "description": "A first-ever National Intelligence Estimate on climate warned that 11 countries are at particular risk owing to extreme weather and the challenges of coping with it.",
+      "url": "https://www.washingtonpost.com/national-security/intelligence-pentagon-climate-change-warnings/2021/10/21/ea3a2c84-31d3-11ec-a1e5-07223c50280a_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZK7EWPRSMMI6ZIPFA4RDYUBIBI.jpg&w=1440",
+      "publishedAt": "2021-10-21T13:56:51Z",
+      "content": "The new National Intelligence Estimate on climate, a first-of-its kind document by the Office of the Director of National Intelligence, builds on other grim warnings from national security officials … [+5815 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lisa Respers France, CNN",
+      "title": "Cardi B and Penn Badgley are the Twitter friendship we didn't know we needed - CNN",
+      "description": "What's the relationship status when you swap Twitter avis?",
+      "url": "https://www.cnn.com/2021/10/21/entertainment/cardi-b-penn-badgley-friendship/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211021090417-cardi-badgley-split-super-tease.jpg",
+      "publishedAt": "2021-10-21T13:32:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lauren Feiner",
+      "title": "Oversight board condemns Facebook for withholding information on how it moderates VIPs - CNBC",
+      "description": "The cross-check system, revealed by The Wall Street Journal through leaked documents, shields VIP users from standard content moderation procedures.",
+      "url": "https://www.cnbc.com/2021/10/21/oversight-board-condemns-facebook-for-withholding-information-on-vip-moderation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106198487-1571840116089gettyimages-1177729963.jpeg?v=1634819985",
+      "publishedAt": "2021-10-21T13:15:53Z",
+      "content": "Facebook's oversight board condemned the platform on Thursday for withholding relevant information about its content moderation system that was revealed by The Wall Street Journal through leaked docu… [+2904 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": null,
+      "title": "Fantasy Football Rankings Week 7, 2021: Proven model says start Antonio Brown, sit Joe Burrow - CBSSports.com",
+      "description": "SportsLine's computer model reveals its Week 7 Fantasy football projections, rankings, sit-start advice",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-7-2021-proven-model-says-start-antonio-brown-sit-joe-burrow/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/10/3e89f840-fd81-4654-b406-7c9b4c5473a2/thumbnail/1200x675/ee25e85304846a0822f1294b68c9a6a4/antonio-brown.png",
+      "publishedAt": "2021-10-21T13:12:42Z",
+      "content": "If your Fantasy football team features Dak Prescott, Justin Herbert or Josh Allen as your starting quarterback, you'll need a reliable streaming option this week since the Cowboys, Chargers and Bills… [+3827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Catie Edmondson, Luke Broadwater",
+      "title": "5 Veterans Quit Kyrsten Sinema's Advisory Council - The New York Times",
+      "description": "The furious members accused the Arizona Democrat of “answering to big donors rather than your own people,” in the latest sign of the political pressure she faces.",
+      "url": "https://www.nytimes.com/2021/10/21/us/politics/sinema-veterans-resign.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/21/us/politics/21dc-sinema/21dc-sinema-facebookJumbo.jpg",
+      "publishedAt": "2021-10-21T13:11:53Z",
+      "content": "Democrats were out desperately trying to help her win the seat, and now we feel like, what was it for? Sylvia González Andersh, one of the veterans who signed the letter, said in an interview. Nobody… [+1997 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "The Athletic MLB Staff",
+      "title": "Braves at Dodgers Game 5 picks: Expert selections, odds as Atlanta tries to finish off the NLCS - The Athletic",
+      "description": "The Athletic's MLB writers make their picks for Game 5 of the NLCS between the Dodgers and Braves.",
+      "url": "https://theathletic.com/2902651/2021/10/21/braves-at-dodgers-game-5-picks-expert-selections-odds-as-atlanta-tries-to-finish-off-the-nlcs/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2021/10/21010544/GettyImages-1236016233-1024x683.jpg",
+      "publishedAt": "2021-10-21T13:10:18Z",
+      "content": "Every day during the MLB Playoffs, The Athletics MLB writers will make their picks straight up. We put our picks and all series coverage, plus the latest odds, all in one place for fans to easily dig… [+3920 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jonathan Weisman",
+      "title": "Democrats' Campaign to Control Drug Prices Nears Collapse - The New York Times",
+      "description": "Democrats have made giving government the power to negotiate drug prices a central campaign theme for decades. With the power to make it happen, they may fall short yet again.",
+      "url": "https://www.nytimes.com/2021/10/21/us/politics/drug-prices-democrats.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/21/us/politics/21dc-drugprices-4/merlin_188573067_00d4a412-fc3d-4f45-9d25-f15a0f85f66b-facebookJumbo.jpg",
+      "publishedAt": "2021-10-21T13:08:22Z",
+      "content": "Some simpler solutions would change the formula of the existing Medicare prescription drug benefit to limit out-of-pocket costs, especially in the event of a catastrophic health event.\r\nMr. Wyden is … [+1509 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Callum Keown",
+      "title": "American, Southwest, and Alaska Air Just Reported Earnings. What to Know. - Barron's",
+      "description": "Major U.S. airlines are largely unanimous in expecting robust holiday demand in the months ahead, but rising fuel prices could put a spanner in the works.",
+      "url": "https://www.barrons.com/articles/american-southwest-alaska-air-earnings-51634821301",
+      "urlToImage": "https://images.barrons.com/im-415505/social",
+      "publishedAt": "2021-10-21T13:02:00Z",
+      "content": "American Airlines, Southwest Airlines, and Alaska Air all beat earnings expectations early Thursday and there is plenty for investors to digest.\r\nMajor U.S. airlines are largely unanimous in expectin… [+296 chars]"
+    }
+  ]
+}
